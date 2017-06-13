@@ -1,5 +1,7 @@
 {
   "name": "music_id",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
 }
